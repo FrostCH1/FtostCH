@@ -7,6 +7,6 @@
  
  # How to Install
  
-1.) ติดตั้งโปรแกรม Visual Studio
-2.) แตกไฟล์ .zip
-3.) คลิกที่ Start.cmd เพื่อเปิดใช้งาน
+<p></p></p>1.) ติดตั้งโปรแกรม Visual Studio</p></p></p>
+<p></p>2.) แตกไฟล์ .zip </p></p>
+<p>3.) คลิกที่ Start.cmd เพื่อเปิดใช้งาน</p>
